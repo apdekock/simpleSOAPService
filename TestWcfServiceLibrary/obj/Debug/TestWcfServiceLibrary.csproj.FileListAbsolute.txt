@@ -1,0 +1,7 @@
+C:\Users\phili\source\repos\ServiceHostApp\TestWcfServiceLibrary\bin\Debug\TestWcfServiceLibrary.dll.config
+C:\Users\phili\source\repos\ServiceHostApp\TestWcfServiceLibrary\bin\Debug\TestWcfServiceLibrary.dll
+C:\Users\phili\source\repos\ServiceHostApp\TestWcfServiceLibrary\bin\Debug\TestWcfServiceLibrary.pdb
+C:\Users\phili\source\repos\ServiceHostApp\TestWcfServiceLibrary\obj\Debug\TestWcfServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\phili\source\repos\ServiceHostApp\TestWcfServiceLibrary\obj\Debug\TestWcfServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\ServiceHostApp\TestWcfServiceLibrary\obj\Debug\TestWcfServiceLibrary.dll
+C:\Users\phili\source\repos\ServiceHostApp\TestWcfServiceLibrary\obj\Debug\TestWcfServiceLibrary.pdb

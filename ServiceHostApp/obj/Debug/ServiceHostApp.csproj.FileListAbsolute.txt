@@ -1,0 +1,10 @@
+C:\Users\phili\source\repos\ServiceHostApp\ServiceHostApp\bin\Debug\ServiceHostApp.exe.config
+C:\Users\phili\source\repos\ServiceHostApp\ServiceHostApp\bin\Debug\ServiceHostApp.exe
+C:\Users\phili\source\repos\ServiceHostApp\ServiceHostApp\bin\Debug\ServiceHostApp.pdb
+C:\Users\phili\source\repos\ServiceHostApp\ServiceHostApp\bin\Debug\TestWcfServiceLibrary.dll
+C:\Users\phili\source\repos\ServiceHostApp\ServiceHostApp\bin\Debug\TestWcfServiceLibrary.pdb
+C:\Users\phili\source\repos\ServiceHostApp\ServiceHostApp\bin\Debug\TestWcfServiceLibrary.dll.config
+C:\Users\phili\source\repos\ServiceHostApp\ServiceHostApp\obj\Debug\ServiceHostApp.csprojResolveAssemblyReference.cache
+C:\Users\phili\source\repos\ServiceHostApp\ServiceHostApp\obj\Debug\ServiceHostApp.csproj.CoreCompileInputs.cache
+C:\Users\phili\source\repos\ServiceHostApp\ServiceHostApp\obj\Debug\ServiceHostApp.exe
+C:\Users\phili\source\repos\ServiceHostApp\ServiceHostApp\obj\Debug\ServiceHostApp.pdb
